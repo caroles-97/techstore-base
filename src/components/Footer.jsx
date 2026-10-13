@@ -44,3 +44,5 @@ export default function Footer({ clientes, clienteAtualId, onTrocarCliente }) {
     </footer>
   )
 }
+
+//
